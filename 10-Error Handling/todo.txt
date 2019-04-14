@@ -1,0 +1,4 @@
+Add Example of
+
+1) Error handling
+2) defer panic recover 

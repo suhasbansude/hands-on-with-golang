@@ -1,0 +1,4 @@
+Add Example of
+
+1) Method
+2) Method with interface

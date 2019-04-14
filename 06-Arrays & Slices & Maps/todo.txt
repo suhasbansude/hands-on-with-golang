@@ -1,0 +1,8 @@
+Add Example of
+
+1) Array
+2) Slice
+3) Append
+4) Slicing of slice and array
+5) Map
+6) delete from map

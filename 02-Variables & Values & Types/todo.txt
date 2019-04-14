@@ -1,0 +1,12 @@
+Add Example of
+
+1) Short hand variable
+2) Var keyword and types of variable
+    a) Machine dependent variable
+3) Constant
+    a) Constant
+    b) Type Constant
+4) iota
+5) types comparatability
+6) user define types
+7) Display types
