@@ -33,6 +33,11 @@ const (
 	E3
 )
 
+const (
+	P1 = iota + iota
+	P2 = iota
+)
+
 func main() {
 	fmt.Println(A1, A2, A3)
 	fmt.Println(B1, B2, B3)
@@ -42,4 +47,5 @@ func main() {
 
 	// Incremental Value
 	fmt.Println(E1, E2, E3)
+	fmt.Println(P1, P2)
 }
