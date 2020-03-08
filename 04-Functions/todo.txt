@@ -1,3 +1,0 @@
-Add Example of
-1) Function Define
-2) init function
