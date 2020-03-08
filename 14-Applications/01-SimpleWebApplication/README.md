@@ -4,7 +4,7 @@ This is a simple TO DO List application using
 
 - [net/http](https://golang.org/pkg/net/http/)
 - [html/template](https://golang.org/pkg/html/template/)
-- [Third Party router](https://github.com/julienschmidt/httprouter)
+- [Third Party router (httprouter)](https://github.com/julienschmidt/httprouter)
 
 ## 1. Install all required dependencies
   Go and its dependencies
